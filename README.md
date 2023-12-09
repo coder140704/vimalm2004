@@ -17,3 +17,4 @@ I am passionate about creating web applications, solving problems, and delving i
 Feel free to explore my repositories, and let's connect to discuss interesting projects and ideas!
 
 Happy coding! 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimalm2004&show_icons=true&theme=radical)
