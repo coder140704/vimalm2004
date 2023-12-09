@@ -17,6 +17,8 @@ I am passionate about creating web applications, solving problems, and delving i
 Feel free to explore my repositories, and let's connect to discuss interesting projects and ideas!
 
 Happy coding! 🚀
-<div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder140704&show_icons=true&theme=radical)
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coder140704&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
